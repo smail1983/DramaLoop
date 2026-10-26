@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="DramaLoop — دراما أجنبية قصيرة مترجمة كتابياً بالعربية، حلقات مشوقة وقصص متسلسلة.">
+  <meta name="theme-color" content="#0b0b10">
+  <title>DramaLoop | دراما قصيرة مترجمة بالعربية</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html"><span class="brand-mark">D</span><span>Drama<span>Loop</span></span></a>
+      <nav class="main-nav" aria-label="التنقل الرئيسي">
+        <a class="active" href="index.html">الرئيسية</a>
+        <a href="#latest">أحدث الحلقات</a>
+        <a href="#categories">التصنيفات</a>
+        <a href="series.html">المسلسلات</a>
+      </nav>
+      <button class="menu-btn" aria-label="فتح القائمة" onclick="document.body.classList.toggle('nav-open')">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero container">
+      <div class="hero-copy">
+        <span class="eyebrow">🎬 دراما قصيرة • ترجمة عربية</span>
+        <h1>كل حلقة تنتهي بسؤال… <span>هل ستشاهد التالية؟</span></h1>
+        <p>اكتشف مسلسلات قصيرة أجنبية مترجمة كتابياً بالعربية، بقصص سريعة ومفاجآت متتالية ونهايات تجعلك تنتظر الحلقة القادمة.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="series.html">اكتشف المسلسلات</a>
+          <a class="btn btn-ghost" href="#latest">شاهد أحدث الحلقات</a>
+        </div>
+      </div>
+      <div class="hero-poster poster-mystery">
+        <div class="poster-overlay"></div>
+        <span class="poster-badge">الأكثر تشويقاً</span>
+        <div class="poster-info"><small>سلسلة قصيرة</small><strong>الهوية المفقودة</strong><span>الحلقة 07 متاحة الآن</span></div>
+      </div>
+    </section>
+
+    <section id="categories" class="section container">
+      <div class="section-head"><div><span class="eyebrow">اكتشف قصتك</span><h2>التصنيفات</h2></div></div>
+      <div class="category-grid">
+        <a href="series.html?genre=romance" class="category-card"><span>❤️</span><strong>رومانسية</strong><small>حب وأسرار</small></a>
+        <a href="series.html?genre=revenge" class="category-card"><span>🔥</span><strong>انتقام</strong><small>خيانة ورد اعتبار</small></a>
+        <a href="series.html?genre=mystery" class="category-card"><span>🕵️</span><strong>غموض</strong><small>أسرار لا تنتهي</small></a>
+        <a href="series.html?genre=fantasy" class="category-card"><span>⚔️</span><strong>فانتازيا</strong><small>عوالم ومغامرات</small></a>
+        <a href="series.html?genre=identity" class="category-card"><span>👑</span><strong>هوية سرية</strong><small>حياة مزدوجة</small></a>
+      </div>
+    </section>
+
+    <section id="latest" class="section container">
+      <div class="section-head"><div><span class="eyebrow">جديد اليوم</span><h2>أحدث الحلقات</h2></div><a class="section-link" href="series.html">عرض الكل ←</a></div>
+      <div class="episode-grid">
+        <article class="episode-card"><div class="thumb thumb-1"><span>EP 07</span></div><div class="card-body"><span class="tag">غموض</span><h3>الهوية المفقودة</h3><p>الحقيقة بدأت تظهر…</p><a href="watch.html?series=hidden-identity&ep=7">مشاهدة الحلقة →</a></div></article>
+        <article class="episode-card"><div class="thumb thumb-2"><span>EP 12</span></div><div class="card-body"><span class="tag">انتقام</span><h3>بعد الخيانة</h3><p>عاد الشخص الذي ظنوه ميتاً.</p><a href="watch.html?series=after-betrayal&ep=12">مشاهدة الحلقة →</a></div></article>
+        <article class="episode-card"><div class="thumb thumb-3"><span>EP 04</span></div><div class="card-body"><span class="tag">رومانسية</span><h3>الزواج المفاجئ</h3><p>صفقة تحولت إلى شيء آخر.</p><a href="watch.html?series=unexpected-marriage&ep=4">مشاهدة الحلقة →</a></div></article>
+        <article class="episode-card"><div class="thumb thumb-4"><span>EP 09</span></div><div class="card-body"><span class="tag">فانتازيا</span><h3>الوريث الأخير</h3><p>قوة قديمة استيقظت.</p><a href="watch.html?series=last-heir&ep=9">مشاهدة الحلقة →</a></div></article>
+      </div>
+    </section>
+
+    <section class="feature container">
+      <div><span class="eyebrow">DramaLoop Originals</span><h2>قصص قصيرة، إيقاع سريع، ونهاية لا تُنسى.</h2><p>الموقع مصمم للمشاهدة على الهاتف، مع حلقات متتابعة وزر للانتقال مباشرة إلى الحلقة التالية.</p></div>
+      <a class="btn btn-primary" href="series.html">ابدأ المشاهدة</a>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="container footer-wrap"><div><a class="brand" href="index.html"><span class="brand-mark">D</span><span>Drama<span>Loop</span></span></a><p>دراما أجنبية قصيرة بترجمة عربية.</p></div><div class="footer-links"><a href="about.html">من نحن</a><a href="privacy.html">الخصوصية</a><a href="disclaimer.html">إخلاء المسؤولية</a></div></div><div class="container copyright">© 2026 DramaLoop. جميع الحقوق محفوظة.</div></footer>
+  <script src="app.js"></script>
+</body>
+</html>
