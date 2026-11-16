@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090b12"/><stop offset=".55" stop-color="#24131b"/><stop offset="1" stop-color="#641d2b"/></linearGradient>
+ <radialGradient id="glow"><stop offset="0" stop-color="#c4474e" stop-opacity=".65"/><stop offset="1" stop-color="#c4474e" stop-opacity="0"/></radialGradient>
+ <linearGradient id="coat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#252a34"/><stop offset="1" stop-color="#07090e"/></linearGradient>
+</defs>
+<rect width="1280" height="720" fill="url(#bg)"/>
+<circle cx="940" cy="300" r="430" fill="url(#glow)"/>
+<path d="M0 590 L330 440 L520 520 L760 390 L1010 520 L1280 420 V720 H0Z" fill="#080a10" opacity=".65"/>
+<g transform="translate(870 115)">
+ <ellipse cx="110" cy="520" rx="175" ry="32" fill="#05060a" opacity=".7"/>
+ <path d="M-20 500 Q-5 300 30 205 Q55 135 115 130 Q185 140 205 225 L255 500Z" fill="url(#coat)"/>
+ <circle cx="112" cy="115" r="72" fill="#9b796d"/>
+ <path d="M40 105 Q45 12 125 32 Q194 42 184 118 Q160 82 125 83 Q82 88 40 105Z" fill="#15151a"/>
+ <path d="M47 205 Q110 250 180 205" fill="none" stroke="#b33c4b" stroke-width="7" opacity=".6"/>
+</g>
+<path d="M80 120 H420" stroke="#d64b5c" stroke-width="5"/>
+<text x="90" y="220" fill="#e7b7bd" font-family="Arial,sans-serif" font-size="34" letter-spacing="7">DRAMALOOP ORIGINAL</text>
+<text x="90" y="355" fill="#fff" font-family="Arial,sans-serif" font-size="76" font-weight="700">آخر فرصة</text>
+<text x="90" y="450" fill="#fff" font-family="Arial,sans-serif" font-size="76" font-weight="700">للانتقام</text>
+<text x="95" y="525" fill="#efb9c0" font-family="Arial,sans-serif" font-size="36">الحلقة 01 • الرجل الذي عاد من الموت</text>
+<rect x="90" y="575" width="240" height="7" rx="3" fill="#c74658"/>
+</svg>
