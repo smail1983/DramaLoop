@@ -1,4 +1,4 @@
-// Generate sitemap.xml from shared episode data. Episode lastmod comes from datePublished.
+// Generate sitemap from shared episode data. Episode lastmod comes from datePublished.
 const fs=require('node:fs');
 const data=JSON.parse(fs.readFileSync('series-data.json','utf8'));
 const staticUrls=['https://dramaloop.site/','https://dramaloop.site/series.html','https://dramaloop.site/about.html','https://dramaloop.site/privacy.html','https://dramaloop.site/disclaimer.html'];
