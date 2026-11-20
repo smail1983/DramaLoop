@@ -1,29 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://dramaloop.site/</loc></url>
-  <url><loc>https://dramaloop.site/series.html</loc></url>
-  <url><loc>https://dramaloop.site/about.html</loc></url>
-  <url><loc>https://dramaloop.site/privacy.html</loc></url>
-  <url><loc>https://dramaloop.site/disclaimer.html</loc></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=1</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-01.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 1</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=2</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-02.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 2</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=3</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-03.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 3</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=4</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-04.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 4</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=5</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-05.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 5</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=6</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-06.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 6</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=7</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-07.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 7</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=8</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-08.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 8</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=9</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-09.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 9</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=10</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-10.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 10</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=11</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-11.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 11</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=12</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-12.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 12</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=13</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-13.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 13</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=14</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-14.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 14</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=15</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-15.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 15</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=16</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-16.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 16</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=17</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-17.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 17</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=18</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-18.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 18</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=19</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-19.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 19</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=20</loc><image:image><image:loc>https://dramaloop.site/lost-identity-episode-20.jpg</image:loc><image:title>الهوية المفقودة - الحلقة 20</image:title></image:image></url>
-  <url><loc>https://dramaloop.site/watch.html?series=last-chance-revenge&amp;ep=1</loc><image:image><image:loc>https://dramaloop.site/last-chance-revenge-thumbnail.svg</image:loc><image:title>آخر فرصة للانتقام - الحلقة 1</image:title></image:image></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://dramaloop.site/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/series.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/privacy.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/disclaimer.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=1</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=3</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=4</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=5</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=6</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=7</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=8</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=9</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=10</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=11</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=12</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=13</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=14</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=15</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=16</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=17</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=18</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=19</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=hidden-identity&amp;ep=20</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=last-chance-revenge&amp;ep=1</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=last-chance-revenge&amp;ep=2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=last-chance-revenge&amp;ep=3</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=last-chance-revenge&amp;ep=4</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dramaloop.site/watch.html?series=last-chance-revenge&amp;ep=5</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
