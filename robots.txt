@@ -1,5 +1,3 @@
-# Allow search engines to crawl the full site
 User-agent: *
 Allow: /
-
 Sitemap: https://dramaloop.site/sitemap.xml
