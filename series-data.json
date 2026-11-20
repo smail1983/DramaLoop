@@ -1,28 +1,190 @@
 {
   "series": {
+    "hidden-identity": {
+      "title": "الهوية المفقودة",
+      "targetEpisodes": 20,
+      "cadence": "daily",
+      "episodes": {
+        "1": {
+          "file": "episode_merged_with_audio.mp4",
+          "thumbnail": "lost-identity-episode-01.jpg",
+          "title": "الهوية المفقودة — الحلقة 01",
+          "datePublished": "2026-10-26",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "2": {
+          "file": "https://raw.githubusercontent.com/smail1983/DramaLoop/main/episode_02_arabic_text-1.mp4",
+          "thumbnail": "lost-identity-episode-02.jpg",
+          "title": "الهوية المفقودة — الحلقة 02",
+          "datePublished": "2026-10-26",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "3": {
+          "file": "episode_03_arabic_text.mp4",
+          "thumbnail": "lost-identity-episode-03.jpg",
+          "title": "الهوية المفقودة — الحلقة 03",
+          "datePublished": "2026-10-26",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "4": {
+          "file": "episode_04_arabic_text.mp4",
+          "thumbnail": "lost-identity-episode-04.jpg",
+          "title": "الهوية المفقودة — الحلقة 04",
+          "datePublished": "2026-10-27",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "5": {
+          "file": "episode_05_arabic_text.mp4",
+          "thumbnail": "lost-identity-episode-05.jpg",
+          "title": "الهوية المفقودة — الحلقة 05",
+          "datePublished": "2026-10-27",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "6": {
+          "file": "DramaLoop_Episode_06_merged.mp4",
+          "thumbnail": "lost-identity-episode-06.jpg",
+          "title": "الهوية المفقودة — الحلقة 06",
+          "datePublished": "2026-10-28",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "7": {
+          "file": "episode_07_arabic_text.mp4",
+          "thumbnail": "lost-identity-episode-07.jpg",
+          "title": "الهوية المفقودة — الحلقة 07",
+          "datePublished": "2026-10-30",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "8": {
+          "file": "episode-8-arabic-subtitles-site.mp4",
+          "thumbnail": "lost-identity-episode-08.jpg",
+          "title": "الهوية المفقودة — الحلقة 08",
+          "datePublished": "2026-11-01",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "9": {
+          "file": "الهوية_المفقودة_الحلقة_9_60ثانية.mp4",
+          "thumbnail": "lost-identity-episode-09.jpg",
+          "title": "الهوية المفقودة — الحلقة 09",
+          "datePublished": "2026-11-02",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "10": {
+          "file": "episode-10-arabic-subtitled.mp4",
+          "thumbnail": "lost-identity-episode-10.jpg",
+          "title": "الهوية المفقودة — الحلقة 10",
+          "datePublished": "2026-11-03",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "11": {
+          "file": "Lost_Identity_Episode_11_Arabic.mp4",
+          "thumbnail": "lost-identity-episode-11.jpg",
+          "title": "الهوية المفقودة — الحلقة 11",
+          "datePublished": "2026-11-04",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "12": {
+          "file": "Episode_12_The_Lost_Identity.mp4",
+          "thumbnail": "lost-identity-episode-12.jpg",
+          "title": "الهوية المفقودة — الحلقة 12",
+          "datePublished": "2026-11-05",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "13": {
+          "file": "Episode_13_The_Lost_Identity.mp4",
+          "thumbnail": "lost-identity-episode-13.jpg",
+          "title": "الهوية المفقودة — الحلقة 13",
+          "datePublished": "2026-11-07",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "14": {
+          "file": "Episode_14_The_Lost_Identity.mp4",
+          "thumbnail": "lost-identity-episode-14.jpg",
+          "title": "الهوية المفقودة — الحلقة 14",
+          "datePublished": "2026-11-08",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "15": {
+          "file": "Episode_15_The_Lost_Identity.mp4",
+          "thumbnail": "lost-identity-episode-15.jpg",
+          "title": "الهوية المفقودة — الحلقة 15",
+          "datePublished": "2026-11-09",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "16": {
+          "file": "Episode_16_The_Lost_Identity.mp4",
+          "thumbnail": "lost-identity-episode-16.jpg",
+          "title": "الهوية المفقودة — الحلقة 16",
+          "datePublished": "2026-11-11",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "17": {
+          "file": "Episode_17_The_Lost_Identity.mp4",
+          "thumbnail": "lost-identity-episode-17.jpg",
+          "title": "الهوية المفقودة — الحلقة 17",
+          "datePublished": "2026-11-12",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "18": {
+          "file": "Episode_18_The_Lost_Identity.mp4",
+          "thumbnail": "lost-identity-episode-18.jpg",
+          "title": "الهوية المفقودة — الحلقة 18",
+          "datePublished": "2026-11-13",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "19": {
+          "file": "Episode_19_The_Lost_Identity.mp4",
+          "thumbnail": "lost-identity-episode-19.jpg",
+          "title": "الهوية المفقودة — الحلقة 19",
+          "datePublished": "2026-11-14",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        },
+        "20": {
+          "file": "Episode_20_The_Lost_Identity.mp4",
+          "thumbnail": "lost-identity-episode-20.jpg",
+          "title": "الهوية المفقودة — الحلقة 20",
+          "datePublished": "2026-11-15",
+          "summary": "تابع أحداث الهوية المفقودة في هذه الحلقة، واكتشف المزيد من أسرار الماضي والغموض."
+        }
+      }
+    },
     "last-chance-revenge": {
       "title": "آخر فرصة للانتقام",
       "targetEpisodes": 20,
       "cadence": "daily",
       "episodes": {
         "1": {
-          "datePublished": null,
+          "file": "last_chance_revenge_episode_1.mp4",
+          "thumbnail": "last-chance-revenge-thumbnail.svg",
+          "title": "آخر فرصة للانتقام — الحلقة 01: الرجل الذي عاد من الموت",
+          "datePublished": "2026-11-16",
           "summary": "ظنوا أن آدم مات واختفى، لكنه يعود ليكشف الخيانة التي قلبت حياته. تبدأ عودته رحلة مواجهة الماضي والبحث عن المسؤولين عما حدث."
         },
         "2": {
-          "datePublished": null,
+          "file": "last_chance_revenge_episode_2.mp4",
+          "thumbnail": "last-chance-revenge-episode-2.svg",
+          "title": "آخر فرصة للانتقام — الحلقة 02: الخائن الذي يعيش بيننا",
+          "datePublished": "2026-11-17",
           "summary": "بدأ آدم يكتشف أن الخيانة جاءت من أقرب الناس إليه. وبينما يحاول فهم ما حدث، يظهر شخص يراقب خطواته ويزيد الغموض."
         },
         "3": {
-          "datePublished": null,
+          "file": "last_chance_revenge_episode_3.mp4",
+          "thumbnail": "last-chance-revenge-episode-3.svg",
+          "title": "آخر فرصة للانتقام — الحلقة 03: الوجه الحقيقي للخائن",
+          "datePublished": "2026-11-18",
           "summary": "يقترب آدم من كشف هوية الخائن، لكن الأدلة تقوده إلى حقيقة أخطر مما توقع. كل خطوة في التحقيق تفتح باباً جديداً من الشك."
         },
         "4": {
-          "datePublished": null,
+          "file": "last_chance_revenge_episode_4.mp4",
+          "thumbnail": "last-chance-revenge-episode_4.svg",
+          "title": "آخر فرصة للانتقام — الحلقة 04: الرجل الثالث",
+          "datePublished": "2026-11-19",
           "summary": "يبحث آدم عن الرجل الثالث الذي قد يكون مفتاح الأحداث. أسرار الماضي تبدأ في الظهور، وتهدد بكشف حقيقة صادمة."
         },
         "5": {
-          "datePublished": null,
+          "file": "last_chance_revenge_episode_5.mp4",
+          "thumbnail": "a_cinematic_dramatic_poster_dark_rainy_moody_thri.png",
+          "title": "آخر فرصة للانتقام — الحلقة 05: سرّ الميلاد",
+          "datePublished": "2026-11-20",
           "summary": "يكتشف آدم أن تاريخ ميلاده مرتبط بملف قديم. كما تظهر إشارات تدفعه للشك في الرواية التي سمعها عن وفاة أمه."
         }
       }
