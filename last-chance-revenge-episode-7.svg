@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#071d2b"/><stop offset="1" stop-color="#02070c"/></linearGradient><radialGradient id="glow"><stop offset="0" stop-color="#2780a0" stop-opacity=".6"/><stop offset="1" stop-color="#071d2b" stop-opacity="0"/></radialGradient></defs>
+<rect width="600" height="900" fill="url(#bg)"/><circle cx="300" cy="400" r="370" fill="url(#glow)"/>
+<g fill="none" stroke="#347a9b" stroke-opacity=".3"><path d="M0 100L600 100M0 200L600 200M0 700L600 700" stroke-width="2"/></g>
+<text x="300" y="120" text-anchor="middle" fill="#e6e8eb" font-family="Arial,sans-serif" font-size="50" font-weight="bold">آخر فرصة</text>
+<text x="300" y="190" text-anchor="middle" fill="#c51d2b" font-family="Arial,sans-serif" font-size="82" font-weight="bold">للانتقام</text>
+<g>
+<circle cx="300" cy="405" r="145" fill="#101b25" stroke="#3b6578" stroke-width="4"/>
+<path d="M180 555 Q190 455 240 420 Q220 360 245 320 Q275 270 325 290 Q380 315 365 385 Q350 420 400 470 Q425 520 430 555" fill="#070b11" stroke="#43505b" stroke-width="4"/>
+<ellipse cx="300" cy="360" rx="75" ry="95" fill="#202b35"/>
+<path d="M230 350 Q240 260 320 265 Q390 280 380 350 Q350 310 290 315 Q250 320 230 350" fill="#07090c"/>
+<path d="M260 390 Q300 410 340 390" stroke="#8a9aa5" stroke-width="4" fill="none"/>
+<path d="M125 590 L475 590 L500 750 L100 750Z" fill="#121b26" stroke="#62717b" stroke-width="4"/>
+<rect x="190" y="615" width="220" height="115" fill="#c4a26c" stroke="#57462d" stroke-width="5" transform="rotate(-4 300 670)"/>
+<text x="300" y="680" text-anchor="middle" fill="#201b14" font-family="Arial" font-size="28" transform="rotate(-4 300 680)">الحقيقة المخفية</text>
+</g>
+<text x="300" y="805" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="44" font-weight="bold">الحلقة 7</text>
+<text x="300" y="860" text-anchor="middle" fill="#d8dce0" font-family="Arial,sans-serif" font-size="34">السرّ الذي أخفته الأم</text>
+</svg>
