@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#06121e"/><stop offset=".55" stop-color="#17344b"/><stop offset="1" stop-color="#03060b"/></linearGradient><linearGradient id="r"><stop stop-color="#7c0711"/><stop offset="1" stop-color="#ed2336"/></linearGradient></defs>
+<rect width="720" height="1280" fill="url(#b)"/><circle cx="360" cy="540" r="360" fill="#7fa5bd" opacity=".1"/>
+<text x="40" y="75" fill="#fff" font-family="Arial" font-size="42" font-weight="bold">Drama<tspan fill="#ef2638">Loop</tspan></text>
+<text x="360" y="175" text-anchor="middle" fill="#fff" font-family="Arial" font-size="68" font-weight="bold">آخر فرصة</text><text x="360" y="255" text-anchor="middle" fill="#ed2639" font-family="Arial" font-size="78" font-weight="bold">للانتقام</text>
+<rect x="170" y="292" width="380" height="92" rx="10" fill="url(#r)"/><text x="360" y="355" text-anchor="middle" fill="#fff" font-family="Arial" font-size="55" font-weight="bold">الحلقة 11</text>
+<g><path d="M35 740Q65 420 185 430Q280 400 310 610L310 900H35Z" fill="#101a25" stroke="#60788d" stroke-width="5"/><ellipse cx="170" cy="540" rx="100" ry="135" fill="#a77b62"/><path d="M65 510Q80 370 180 390Q270 400 270 535L230 490L90 500Z" fill="#252a2d"/>
+<path d="M390 760Q405 430 560 430Q690 460 690 760V920H390Z" fill="#0b121b" stroke="#60788d" stroke-width="5"/><ellipse cx="545" cy="550" rx="105" ry="135" fill="#a77b62"/><path d="M435 525Q430 390 550 390Q660 400 650 550L620 475L460 480Z" fill="#22272d"/>
+<ellipse cx="360" cy="650" rx="130" ry="160" fill="#b78063"/><path d="M225 625Q240 430 370 445Q500 450 500 630L460 555L260 560Z" fill="#201b1a"/><path d="M185 940Q190 770 360 790Q530 770 550 940V1060H185Z" fill="#172330" stroke="#60788d" stroke-width="5"/>
+</g>
+<rect x="45" y="940" width="630" height="120" rx="12" fill="url(#r)" transform="rotate(-3 360 1000)"/><text x="360" y="1018" text-anchor="middle" fill="#fff" font-family="Arial" font-size="62" font-weight="bold">اعتراف فيكتور!</text>
+<text x="360" y="1110" text-anchor="middle" fill="#ffda48" font-family="Arial" font-size="40" font-weight="bold">شخص ميت يعود من جديد!</text>
+<path d="M0 1150H720V1280H0Z" fill="#f5c928"/><text x="360" y="1205" text-anchor="middle" fill="#090d12" font-family="Arial" font-size="42" font-weight="bold">الحلقة كاملة على</text><text x="360" y="1260" text-anchor="middle" fill="#b20d20" font-family="Arial" font-size="48" font-weight="bold">Dramaloop.site</text></svg>
